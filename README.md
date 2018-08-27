@@ -3,4 +3,4 @@
 ##### Edge Detection
 ##### Enhance Contrast 
 ##### Libraries used : 
-    Open CV, PIL 
+    Open CV, PIL, numpy, matplotlib

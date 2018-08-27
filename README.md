@@ -1,4 +1,4 @@
-### [Image Preprocessing on Autoflourence Retina Images] (asaiyed10/optha/edge_det_fundus.ipynb)  
+### [Image Preprocessing on Autoflourence Retina Images](asaiyed10/optha/edge_det_fundus.ipynb)  
 ##### K-Means Image Segmentation 
 ##### Edge Detection
 ##### Enhance Contrast 
